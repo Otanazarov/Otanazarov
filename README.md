@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Otabek and I'm a backend developer</p>
 
+<p align="left">My name is Otabek and I'm a backend developer</p>
 ###
 
 <h2 align="left">About me</h2>
