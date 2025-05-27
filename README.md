@@ -9,8 +9,8 @@ Hi! I'm Otabek, a passionate backend developer from Uzbekistan. I build scalable
 - **ORM**: Prisma, TypeORM
 - **Auth**: JWT, Refresh Tokens, Guards
 - **APIs**: REST, GraphQL
-- **Real-time**: WebSocket (NestJS)
-- **DevOps**: Docker, GitHub Actions (learning)
+- **Real-time**: WebSocket 
+- **DevOps**: Docker, GitHub Actions 
 - **Others**: Swagger, Git, Postman
 
 ## 📊 Featured Projects
@@ -22,7 +22,7 @@ A role-based admin system to manage users, sessions, and test assignments.
 1-on-1 messaging app with NestJS Gateway and message history.
 
 ### 3. Freelancer Platform API (GraphQL)
-GraphQL-based backend with freelancers, clients, and service categories. [In Progress]
+GraphQL-based backend with freelancers, clients, and service categories.
 
 ### 4. Auth System
 Secure login with JWT + Refresh tokens, NestJS guards, and middleware support.
@@ -30,8 +30,7 @@ Secure login with JWT + Refresh tokens, NestJS guards, and middleware support.
 ## 👤 About Me
 - ✨ Focused on clean code and performance
 - ✍️ Learning DevOps and CI/CD
-- ⏳ Currently building real-time and B2B platforms
 
 ## 📅 Let's Connect
-- GitHub: [github.com/otabekdev](https://github.com/otabekdev)
-- Telegram: [@otabek_dev](https://t.me/otabek_dev)
+- GitHub: [github.com/Otanazarov](https://github.com/Otanazarov)
+- Telegram: [@Otanazaarov](https://t.me/Otanazaarov)
